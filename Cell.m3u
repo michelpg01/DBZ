@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTGR;-1 tvg-logo="https://image.tmdb.org/t/p/w500/aPkV23fI6qBeAJqyGeK0mTLSGY0.jpg",Saga de Cell
+#EXTGR: Saga de Cell
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aPkV23fI6qBeAJqyGeK0mTLSGY0.jpg" group-title="Saga de Cell",01 - El misterio de la segunda nave
 https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/Saga%20Cell/01%20-%20Saga%20de%20Cell/Dragon%20Ball%20Z%20-%20S05E01%20-%20Un%20misterioso%20huevo%20encontrado%20en%20la%20m%C3%A1quina%20del%20tiempo%20vip.hdlatino.us.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aPkV23fI6qBeAJqyGeK0mTLSGY0.jpg" group-title="Saga de Cell",02 - Namek nace para destruir al enemigo
@@ -52,7 +52,8 @@ https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20B
 https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/Saga%20Cell/01%20-%20Saga%20de%20Cell/Dragon%20Ball%20Z%20-%20S05E25%20-%20La%20desesperaci%C3%B3n%20de%20vivir%20en%20un%20futuro%20infernal%20vip.hdlatino.us.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aPkV23fI6qBeAJqyGeK0mTLSGY0.jpg" group-title="Saga de Cell",26 - El punto débil de Trunks
 https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/Saga%20Cell/01%20-%20Saga%20de%20Cell/Dragon%20Ball%20Z%20-%20S05E26%20-%20El%20punto%20d%C3%A9bil%20de%20super%20Trunks%20vip.hdlatino.us.mkv
-#EXTGRP;tvg-logo="https://image.tmdb.org/t/p/w500/jQwNaqvgNyJAIL6y28bDqDl5TRF.jpg",Saga de los juegos de Cell
+
+#EXTGRP: Saga de los juegos de Cell
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jQwNaqvgNyJAIL6y28bDqDl5TRF.jpg" group-title="Saga de los juegos de Cell",01 - El misterioso Torneo de Artes Marciales
 https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/Saga%20Cell/02%20-%20Saga%20de%20los%20juegos%20de%20Cell/Dragon%20Ball%20Z%20-%20S06E01%20-%20El%20misterio%20del%20nuevo%20torneo%20de%20artes%20marciales%20vip.hdlatino.us.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jQwNaqvgNyJAIL6y28bDqDl5TRF.jpg" group-title="Saga de los juegos de Cell",02 - El terrible espectáculo de Célula
@@ -111,3 +112,133 @@ https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20B
 https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/Saga%20Cell/02%20-%20Saga%20de%20los%20juegos%20de%20Cell/Dragon%20Ball%20Z%20-%20S06E28%20-%20%C2%A1Pap%C3%A1,%20jam%C3%A1s%20me%20dar%C3%A9%20por%20vencido!%20vip.hdlatino.us.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jQwNaqvgNyJAIL6y28bDqDl5TRF.jpg" group-title="Saga de los juegos de Cell",29 - La pesadilla del mundo futuro
 https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/Saga%20Cell/02%20-%20Saga%20de%20los%20juegos%20de%20Cell/Dragon%20Ball%20Z%20-%20S06E29%20-%20Otro%20final%20feliz%20vip.hdlatino.us.mkv
+
+#EXTGRP: Dragon Ball GT - Temporada 1 (1996)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",01 - El misterio de las bolas de dragón
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.01-Unas%20Misteriosas%20Esferas%20Del%20Dragon%20Aparecen.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",02 - Goku, Trunks y Pan viajan al espacio
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.02-Pan%20viaja%20en%20la%20nave%20espacial.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",03 - Los comerciantes del planeta Imegga
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.03-Los%20Comerciantes%20Del%20Planeta%20Imega.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",04 - Los criminales más buscados
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.04-Goku%20y%20Los%20Demas%20Se%20Convierten%20En%20Criminales.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",05 - Redic: Un tipo duro
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.05-El%20poderoso%20Lezick.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",06 - El segundo planeta
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.06-El%20dentista%20Goku.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",07 - La boda de Trunks
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.07-Trunks%20se%20viste%20de%20novia.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",08 - El terrible poder de Zuhnamer
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.08-Los%20bigotes%20de%20Zunama.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",09 - La Cueva de los Moomas
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.09-El%20planeta%20peligroso.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",10 - El ataque del baile
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.10-El%20baile%20bon-pa-ppa.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",11 - La maldición de Loud
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.11-Pan%20es%20convertida%20en%20mu%C3%B1eca.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",12 - El dios va a despertar
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.12-El%20despertar%20de%20Rudo.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",13 - El misterio de Mu
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.13-El%20misterioso%20cient%C3%ADfico%20llamado%20Myu.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",14 - La derrota de Loud
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.14-La%20destrucci%C3%B3n%20de%20Rudo.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",15 - La fuga de Pan
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.15-Pan%20se%20escapa.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",16 - La traición de Giru
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.16-El%20planeta%20de%20las%20m%C3%A1quinas%20M2.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",17 - Los planes de Rilld
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.17-El%20plan%20de%20Pan.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",18 - Comienza la lucha
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.18-La%20furia%20de%20Goku.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",19 - El amo de los androides
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.19-El%20poderoso%20mutante%20Rildo.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",20 - El ataque de Rildo
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.20-Goku%20es%20atacado%20por%20una%20tsunami%20hecha%20de%20metal.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",21 - Goku es derrotado
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.21-Goku%20es%20atrapado%20en%20una%20placa%20de%20metal.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",22 - El despertar de Baby
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.22-El%20maligno%20Bebi.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",23 - Un invitado misterioso
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.23-El%20joven%20misterioso%20de%20la%20nave%20naufragada.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",24 - El contraataque de Baby
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.24-El%20ataque%20de%20Bebi.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",25 - Baby llega a la Tierra
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.25-Bebi%20llega%20a%20la%20Tierra.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",26 - Son Gohan y Goten: La hermandad diabólica
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.26-Una%20pelea%20entre%20hermanos.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",27 - Vegeta es poseído
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.27-Vegeta%20es%20poseido%20por%20Baby.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",28 - La vuelta de Goku
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.28-%C2%BFTodos%20son%20mis%20enemigos.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",29 - La gran derrota
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.29-El%20poder%20del%20supersaiyajin%203%20es%20derrotado.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",30 - ¿Dónde esta Goku?
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.30-Goku%20es%20eliminado.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",31 - ¡Qué sorpresa! Sugoroku, el gran hundimiento del espacio
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.31-La%20destrucci%C3%B3n%20de%20la%20dimensi%C3%B3n%20de%20la%20oca.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",32 - El regreso de Goku. La ira del guerrero Oob
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.32-La%20furia%20del%20guerrero%20Ub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",33 - Atento Baby. El nuevo Oob ataca con su rayo de luz
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.33-El%20poder%20del%20nuevo%20Ub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",34 - ¿Fracasa la transformación? Goku, el Súper Saiyan, está descontrolado
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.34-Goku%20fracasa%20en%20su%20transformaci%C3%B3n.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",35 - Lo definitivo: Goku en Súper Saiyan 4
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.35-Goku%20se%20convierte%20en%20super%20saiyajin%204.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",36 - Un nuevo monstruo. El malvado Super Saiyan Baby
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.36-El%20gigantesco%20mono%20Bebi.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",37 - ¡Increíble! El k.o. doble de Goku y Vegeta
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.37-Doble%20K.O..mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",38 - Con el poder de todos revive el Súper Saiyan 4
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.38-Goku%20recupera%20sus%20poderes.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",39 - ¡Esto es el Fin! Al final Baby ha sido derrotado
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.39-Bebi%20muere.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",40 - ¡La Tierra explota! La decisión final de Piccolo
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.40-La%20importante%20decisi%C3%B3n%20de%20Piccoro.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",41 - ¿Quién será el sucesor de Satán?
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.41-Qui%C3%A9n%20ser%C3%A1%20el%20sucesor%20de%20Mr%20Sat%C3%A1n.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",42 - ¡Muere Goku! La resurrección de los enemigos en el infierno
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.42-Goku%20se%20enfrenta%20con%20enemigos%20poderosos%20del%20infierno.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",43 - Luchadores del infierno. La resurrección de Célula y Freezer
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.43-Cell%20y%20Freezer%20regresan.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",44 - El androide definitivo. La fusión de los dos C-17
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.44-El%20androide%20m%C3%A1s%20poderoso.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",45 - Ánimo Goku. El plan para escapar del infierno
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.45-Goku%20escapa%20del%20infierno.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",46 - ¡Impacto! Super Saiyan 4 contra Super C-17
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.46-El%20super%20saiyajin%20N4%20vs%20super%20numero%2017.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",47 - La gran alianza: El ataque combinado de Goku y C-18
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.47-Goku%20y%20n%C3%BAmero%2018%20pelean%20juntos.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",48 - ¡Vaya sorpresa! El enemigo es Shenron
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.48-%C2%BFShen-long%20es%20nuestro%20enemigo.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",49 - ¡¿El enemigo definitivo?! Terror ante la trampa del dragón
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.49-El%20drag%C3%B3n%20que%20pelea%20de%20una%20manera%20diferente.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",50 - ¡¿El poder Saiyan derrotado?! El enemigo eléctrico Uuh Shinron
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.50-El%20drag%C3%B3n%20el%C3%A9ctrico.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",51 - ¡Ryu Shinron! El punto débil es el ataque del tornado gigante
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.51-El%20ataque%20del%20torbellino.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",52 - ¡Pan, cuidado! Vas a ser poseída por Chii Shinron
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.52-La%20t%C3%A9cnica%20secreta%20del%20drag%C3%B3n%20de%20siete%20estrellas.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",53 - ¿Pan será asesinada?
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.53-%C2%BFPan%20desaparece.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",54 - 6000°C de poder. El guerrero del Sol
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.54-El%20guerrero%20del%20sol.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",55 - ¡Bulma actúa! El plan de Vegeta
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.55-El%20plan%20de%20Vegeta%20y%20Bulma.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",56 - Los hermanos del calor y el frío
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.56-Los%20hermanos%20de%20fuego%20y%20del%20hielo.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",57 - Al final aparece Ih Shinron
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.57-El%20drag%C3%B3n%20m%C3%A1s%20poderoso.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",58 - El contraataque ha sido devuelto. El Super Saiyan 4, superado
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.58-Goku%20supera%20los%20poderes%20del%20super%20Saiyajin%204.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",59 - ¿Enemigo? ¿Aliado? El Super Saiyan Vegeta, enfurecido
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.59-Vegeta%20se%20convierte%20en%20un%20mono%20gigante.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",60 - ¡Fusión! El Super Gogeta definitivo
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.60-Super%20Gogeta.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",61 - ¡Voy a ganar! Goku engulle la Suu Shinchuu
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.61-Goku%20se%20come%20la%20esfera%20de%204%20estrellas.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",62 - Al rescate de Goku. Aparece el último aliado
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.62-Cuatro%20estrellas%20salva%20a%20Goku.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",63 - ¡Victoria gracias al milagroso contraataque! Goku pide ayuda al universo
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.63-Goku%20salva%20el%20universo.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/5CrpF8eg9gPxmvpOAVLOrnaC8pD.jpg" group-title="Dragon Ball GT - Temporada 1",64 - ¡Adiós Goku! Hasta que nos volvamos a encontrar
+https://vip.pelisyseries19.workers.dev/0:/DRIVE%20-%20MAICOL/DBZ/02%20Dragon%20Ball%20Z/03%20Dragon%20Ball%20GT/DBGT.64-%C2%A1Adi%C3%B3s%20Goku!.mkv
